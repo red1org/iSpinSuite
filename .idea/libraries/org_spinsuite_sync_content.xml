@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.spinsuite.sync.content">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/org.spinsuite.sync.content.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

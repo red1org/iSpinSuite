@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="js-android-jaspermobile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/js-android-jaspermobile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
